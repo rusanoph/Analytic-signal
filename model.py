@@ -96,9 +96,9 @@ def frq(signal, dx):
 # plt.plot(axis, signal)
 # plt.plot(axis, ort_signal, color = 'red')
 
-# # plt.plot(axis, amp(analitic_signal))
-# # plt.plot(axis, cap(analitic_signal))
-# # plt.plot(axis, smoothing( frq(analitic_signal, 0.0008), 50), color = 'grey')
+# plt.plot(axis, amp(analitic_signal))
+# plt.plot(axis, cap(analitic_signal))
+# plt.plot(axis, smoothing( frq(analitic_signal, 0.0008), 50), color = 'grey')
 
 # plt.show()
 
